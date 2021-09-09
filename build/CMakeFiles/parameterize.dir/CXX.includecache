@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/parameter.h
+iostream
+-
+fstream
+-
+string
+-
+
+/home/zw/event_camera/src/parameter.cpp
+parameter.h
+/home/zw/event_camera/src/parameter.h
+

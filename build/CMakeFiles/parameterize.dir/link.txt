@@ -1,0 +1,2 @@
+/usr/bin/ar qc libparameterize.a  CMakeFiles/parameterize.dir/src/parameter.cpp.o CMakeFiles/parameterize.dir/src/parameterize_generated_parameterize.cu.o
+/usr/bin/ranlib libparameterize.a
